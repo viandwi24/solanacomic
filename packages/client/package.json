@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "BROWSER= vite",
     "build": "BROWSER= tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "prepare": "cp ../contract/target/idl/solanacomic.json ./src/idl/solanacomic.json && cp ../contract/target/types/solanacomic.ts ./src/idl/solanacomic.ts"
   },
   "dependencies": {
     "@esbuild-plugins/node-globals-polyfill": "^0.2.3",
@@ -23,7 +24,6 @@
     "@solana/wallet-adapter-react-ui": "^0.9.31",
     "@solana/wallet-adapter-wallets": "^0.19.16",
     "@solana/web3.js": "^1.74.0",
-    "@solanacomic/contract": "workspace:^",
     "buffer": "^6.0.3",
     "dayjs": "^1.11.7",
     "near-api-js": "^2.0.4",

@@ -2,8 +2,8 @@ import { useEffect, useMemo, useState } from "react"
 import { useConnection, useAnchorWallet } from '@solana/wallet-adapter-react'
 import { WalletMultiButton } from "@solana/wallet-adapter-react-ui"
 import * as anchor from "@project-serum/anchor"
-import idl from "@solanacomic/contract/target/idl/solanacomic.json"
-import { Solanacomic } from "@solanacomic/contract/target/types/solanacomic"
+import idl from "./idl/solanacomic.json"
+import { Solanacomic } from "./idl/solanacomic"
 import { Keypair, PublicKey } from '@solana/web3.js'
 import dayjs from 'dayjs'
 import DatePicker from 'react-date-picker'
