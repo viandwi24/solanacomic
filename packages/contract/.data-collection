@@ -1,0 +1,28 @@
+wallet: HXMfc1iaCxxeRt7wgwkRuZcbr4KQw79KRDJwjFU4RcWE
+connection: https://api.devnet.solana.com
+
+=======================================
+=> create collection nft
+mint: 6wH2PM8xcLoPnUHqShpuHHj2fdsCvqzd8QX4JNBqZfAU
+metadata: ANNhHq3d8YKrDeiZ3fKWnMTAC617XTjrPw7hrb8aRBhy
+edition: 6oqEuMqd6CWB3vQ6QmxZutcy9kUfzfxEQHm25bUrSaHB
+
+=======================================
+=> create nft in collection
+mint: 8W3r1LEVNQubxEZaUQDYHpyK14nyvvUYbB9ssZwmrYvn
+metadata: CvKi1jrh2VWMckkKBGf4A1TxBBHc56LgdtXKfqr4J4DB
+edition: 2Mq5p6GSAd8nv8p1wHtQgJVg99KQ4svjUVjqKPGqe8B6
+
+=======================================
+=> verify
+verify: {
+  signature: '5KvcAqpWmnhUwHbgSHo2LZy4g7xZsEVFprwRq8gywjNMJMTrFqDY6fzjmuu3cSScqW7n82Q5o6g3wbADyDeErmZ3',
+  confirmResponse: { context: { slot: 206684280 }, value: { err: null } },
+  blockhash: '8r7x9CjbYU847SpNNg4fMrcMCBJz7dhtdU5XFcbdpGD2',
+  lastValidBlockHeight: 195129674
+}
+
+=======================================
+=> results links
+collection nft: https://explorer.solana.com/address/6wH2PM8xcLoPnUHqShpuHHj2fdsCvqzd8QX4JNBqZfAU?cluster=devnet
+nft in collection: https://explorer.solana.com/address/8W3r1LEVNQubxEZaUQDYHpyK14nyvvUYbB9ssZwmrYvn?cluster=devnet

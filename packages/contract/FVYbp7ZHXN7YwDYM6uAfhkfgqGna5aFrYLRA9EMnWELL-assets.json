@@ -1,0 +1,1436 @@
+{
+  "total": 23,
+  "limit": 1000,
+  "page": 0,
+  "items": [
+    {
+      "interface": "V1_NFT",
+      "id": "12XsgJDKnfesV6DepoX5KkpdtbGqWToEyyxXq3BKyToc",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/nftbox/main/assets/examples/nft_voucher.json",
+        "files": [],
+        "metadata": {
+          "description": "claim 3 random My Sol NFTs on NFTBOX",
+          "name": "VOUCHER 3 MY SOL PACKS",
+          "symbol": "MSP"
+        },
+        "links": {
+          "external_url": null
+        }
+      },
+      "authorities": [
+        {
+          "address": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": false,
+        "data_hash": "",
+        "creator_hash": "",
+        "asset_hash": "",
+        "tree": "",
+        "seq": 0,
+        "leaf_id": 0
+      },
+      "grouping": [],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 253
+      },
+      "mutable": true
+    },
+    {
+      "interface": "V1_NFT",
+      "id": "Dmw8YqHcwgEfvjRvpJgJe1A8GURCoqGbERQXg53fsxu",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/nfts-devs/main/bgum/nft_test_metadata.json?r=0.6362236269367587",
+        "files": [],
+        "metadata": {
+          "description": "for test purpose",
+          "name": "BGUM Test In Collection",
+          "symbol": ""
+        },
+        "links": {
+          "external_url": null
+        }
+      },
+      "authorities": [
+        {
+          "address": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": false,
+        "data_hash": "",
+        "creator_hash": "",
+        "asset_hash": "",
+        "tree": "",
+        "seq": 0,
+        "leaf_id": 0
+      },
+      "grouping": [
+        {
+          "group_key": "collection",
+          "group_value": "AnQAd9tVwD9drp8Y2TN8dhCVseVcAXTDsxMkDa5wKzkc"
+        }
+      ],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 247
+      },
+      "mutable": true
+    },
+    {
+      "interface": "V1_NFT",
+      "id": "QXoWAYhtwuSpFE3kMsg2ipSsUk3NKMJfV5QScgMFxDe",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/nfts-devs/main/bgum/collection_test_metadata.json?r=0.18442513537581418",
+        "files": [],
+        "metadata": {
+          "description": "for test purpose",
+          "name": "BGUM Test Collection",
+          "symbol": ""
+        },
+        "links": {
+          "external_url": null
+        }
+      },
+      "authorities": [
+        {
+          "address": "28mvEKwZeYyW6fFWKW7zsjJbDnQn9cuxsX3zxUfkGP7H",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": true,
+        "data_hash": "WTUMfpA341uRMPnJLe4XfVsCfVm5fbFpTbJEviHTFLk",
+        "creator_hash": "HBrxG4xufN5EaPhKctKD1b1gCjrQfNeeL3DH7DEBD6oe",
+        "asset_hash": "2YJMnsjs2SeZMtneWvvPztoCsG2HXKqbbScTAqUv3wd9",
+        "tree": "8dFcchB7N3pEZ3Q1wDd1umTGEYVaN1L4wKShTz7kLUZb",
+        "seq": 4,
+        "leaf_id": 3
+      },
+      "grouping": [
+        {
+          "group_key": "collection",
+          "group_value": "4bPsWZLGaMR6gzx9G8DxeKhEA1bStMUb7iMVuYdAgDkj"
+        }
+      ],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [
+        {
+          "address": "HXMfc1iaCxxeRt7wgwkRuZcbr4KQw79KRDJwjFU4RcWE",
+          "share": 100,
+          "verified": true
+        }
+      ],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 0
+      },
+      "mutable": true
+    },
+    {
+      "interface": "V1_NFT",
+      "id": "27AzARJcqTSLuwBetWyuP6YL92W1crQc2uGcY78t1rcp",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/mysol/main/assets/mysolbadges/metadatas/trainer.json?r=1",
+        "files": [],
+        "metadata": {
+          "description": "has collected 5 mysolnft",
+          "name": "Trainer Badges",
+          "symbol": "MSB"
+        },
+        "links": {
+          "external_url": null
+        }
+      },
+      "authorities": [
+        {
+          "address": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": false,
+        "data_hash": "",
+        "creator_hash": "",
+        "asset_hash": "",
+        "tree": "",
+        "seq": 0,
+        "leaf_id": 0
+      },
+      "grouping": [],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 253
+      },
+      "mutable": true
+    },
+    {
+      "interface": "V1_NFT",
+      "id": "3iC38ppFqFULyR7dSzrfgrMhkfMGPHb7i5Y15MVzuwZJ",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/nftbox/main/assets/examples/images/nft_voucher.png",
+        "files": [],
+        "metadata": {
+          "name": "test bubblegum",
+          "symbol": "solcom"
+        }
+      },
+      "authorities": [
+        {
+          "address": "7iidh9psQ3Dt1LfRdD5JLHUYaxJ3TBGMgGU4XMn8CosR",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": true,
+        "data_hash": "HbtxrBTtTG6eSRgEsa5s5tt3DXyfAPoxkVVUcN35T6WK",
+        "creator_hash": "3e3xoKZQtE4LS7AuTcnvpsFAcQ286BL747gcCmvXVhkN",
+        "asset_hash": "3GNNd2ECanuVyz5vrvS9MSwDhEJiaCQn2wtX1Dbeajfm",
+        "tree": "2NJ75pia799TtU9mn5E16Wn8MkfY5kkG8zsQvSJBs6Ta",
+        "seq": 3,
+        "leaf_id": 2
+      },
+      "grouping": [],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [
+        {
+          "address": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL",
+          "share": 100,
+          "verified": true
+        }
+      ],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 0
+      },
+      "mutable": true
+    },
+    {
+      "interface": "V1_NFT",
+      "id": "45SQFq94Gn1oKQMUznJtUTbRNPJURoS7C3eu5YKTuBGG",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/nfts-devs/main/bgum/collection_test_metadata.json",
+        "files": [],
+        "metadata": {
+          "description": "for test purpose",
+          "name": "BGUM Test Collection",
+          "symbol": ""
+        },
+        "links": {
+          "external_url": null
+        }
+      },
+      "authorities": [
+        {
+          "address": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": false,
+        "data_hash": "",
+        "creator_hash": "",
+        "asset_hash": "",
+        "tree": "",
+        "seq": 0,
+        "leaf_id": 0
+      },
+      "grouping": [],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 254
+      },
+      "mutable": true
+    },
+    {
+      "interface": "V1_NFT",
+      "id": "4FwQzHuZ3aKV26cmEpcBB7yQKFWvbCw3woC6qhDPk3XF",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/nfts-devs/main/bgum/collection_test_metadata.json?r=0.18442513537581418",
+        "files": [],
+        "metadata": {
+          "description": "for test purpose",
+          "name": "BGUM Test Collection",
+          "symbol": ""
+        },
+        "links": {
+          "external_url": null
+        }
+      },
+      "authorities": [
+        {
+          "address": "28mvEKwZeYyW6fFWKW7zsjJbDnQn9cuxsX3zxUfkGP7H",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": true,
+        "data_hash": "WTUMfpA341uRMPnJLe4XfVsCfVm5fbFpTbJEviHTFLk",
+        "creator_hash": "HBrxG4xufN5EaPhKctKD1b1gCjrQfNeeL3DH7DEBD6oe",
+        "asset_hash": "AA1ub4tZpxQCC5aX3rSbbpfG7MxCFygBPHaZNkQU8qzp",
+        "tree": "8dFcchB7N3pEZ3Q1wDd1umTGEYVaN1L4wKShTz7kLUZb",
+        "seq": 7,
+        "leaf_id": 6
+      },
+      "grouping": [
+        {
+          "group_key": "collection",
+          "group_value": "4bPsWZLGaMR6gzx9G8DxeKhEA1bStMUb7iMVuYdAgDkj"
+        }
+      ],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [
+        {
+          "address": "HXMfc1iaCxxeRt7wgwkRuZcbr4KQw79KRDJwjFU4RcWE",
+          "share": 100,
+          "verified": true
+        }
+      ],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 0
+      },
+      "mutable": true
+    },
+    {
+      "interface": "V1_NFT",
+      "id": "4tquJP6Qki2atoqrER1ogEcwF8fKxksthTbVAPbR1sLK",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/nftbox/main/assets/examples/images/nft_voucher.png",
+        "files": [],
+        "metadata": {
+          "name": "test bubblegum",
+          "symbol": "solcom"
+        }
+      },
+      "authorities": [
+        {
+          "address": "7iidh9psQ3Dt1LfRdD5JLHUYaxJ3TBGMgGU4XMn8CosR",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": true,
+        "data_hash": "HgUfj4CN2Tp8H7rinTnCSXuWuJ3NammuDMm4on6Dsjj",
+        "creator_hash": "3e3xoKZQtE4LS7AuTcnvpsFAcQ286BL747gcCmvXVhkN",
+        "asset_hash": "GN3r5vX8styrb1XmVNBY5TcV3eTWzTWqcJpFiRtN7PGN",
+        "tree": "2NJ75pia799TtU9mn5E16Wn8MkfY5kkG8zsQvSJBs6Ta",
+        "seq": 7,
+        "leaf_id": 6
+      },
+      "grouping": [
+        {
+          "group_key": "collection",
+          "group_value": "9XwGTDtEb6b8eYCgZby9eq1QxTtiTn8wyipsbqgF1feX"
+        }
+      ],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [
+        {
+          "address": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL",
+          "share": 100,
+          "verified": true
+        }
+      ],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 0
+      },
+      "mutable": true
+    },
+    {
+      "interface": "Custom",
+      "id": "4vbt2bQUgECfEuMDBGjDq8EKa66B1z2hHztwJ6HFc6NH",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/nftbox/main/assets/examples/nft_voucher.json",
+        "files": [],
+        "metadata": {
+          "description": "claim 3 random My Sol NFTs on NFTBOX",
+          "name": "VOUCHER 3 MY SOL PACKS",
+          "symbol": "MSP"
+        },
+        "links": {
+          "external_url": null
+        }
+      },
+      "authorities": [
+        {
+          "address": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": false,
+        "data_hash": "",
+        "creator_hash": "",
+        "asset_hash": "",
+        "tree": "",
+        "seq": 0,
+        "leaf_id": 0
+      },
+      "grouping": [],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": null,
+      "mutable": false
+    },
+    {
+      "interface": "V1_NFT",
+      "id": "5VTWJhA9YzmrFmauMd3JYop4TouP2oF5nSXb5KWkYRSh",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/nftbox/main/assets/examples/nft_voucher.json",
+        "files": [],
+        "metadata": {
+          "description": "claim 3 random My Sol NFTs on NFTBOX",
+          "name": "VOUCHER 3 MY SOL PACKS",
+          "symbol": "MSP"
+        },
+        "links": {
+          "external_url": null
+        }
+      },
+      "authorities": [
+        {
+          "address": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": false,
+        "data_hash": "",
+        "creator_hash": "",
+        "asset_hash": "",
+        "tree": "",
+        "seq": 0,
+        "leaf_id": 0
+      },
+      "grouping": [],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 253
+      },
+      "mutable": true
+    },
+    {
+      "interface": "V1_NFT",
+      "id": "6VausyqDDYgdaEXRwWpg4EHrDVYbgbUhc6xgqpmx14za",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/nftbox/main/assets/examples/images/nft_voucher.png",
+        "files": [],
+        "metadata": {
+          "name": "test bubblegum",
+          "symbol": "solcom"
+        }
+      },
+      "authorities": [
+        {
+          "address": "28mvEKwZeYyW6fFWKW7zsjJbDnQn9cuxsX3zxUfkGP7H",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": true,
+        "data_hash": "YGtaBeK7zTNJpZ1rMgq8mM5Z8zjEB5aP75pJkS3QpK6",
+        "creator_hash": "Ggd3CLUnj7dmRKr8hFzMnok1tX3EsVoe7nJDTj3m3PCB",
+        "asset_hash": "GQp3xPLFjuH1QMBm3S5mA9bt2jy2Ry7p6pu7RCNqLgHj",
+        "tree": "8dFcchB7N3pEZ3Q1wDd1umTGEYVaN1L4wKShTz7kLUZb",
+        "seq": 2,
+        "leaf_id": 1
+      },
+      "grouping": [
+        {
+          "group_key": "collection",
+          "group_value": "4bPsWZLGaMR6gzx9G8DxeKhEA1bStMUb7iMVuYdAgDkj"
+        }
+      ],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [
+        {
+          "address": "28mvEKwZeYyW6fFWKW7zsjJbDnQn9cuxsX3zxUfkGP7H",
+          "share": 100,
+          "verified": false
+        }
+      ],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 0
+      },
+      "mutable": true
+    },
+    {
+      "interface": "Custom",
+      "id": "79PhF1aCNFEx9Uw2BTmnqAK6jrU3Nn6qN3eqX5qGVVF4",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/nftbox/main/assets/examples/nft_voucher.json",
+        "files": [],
+        "metadata": {
+          "description": "claim 3 random My Sol NFTs on NFTBOX",
+          "name": "VOUCHER 3 MY SOL PACKS",
+          "symbol": "MSP"
+        },
+        "links": {
+          "external_url": null
+        }
+      },
+      "authorities": [
+        {
+          "address": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": false,
+        "data_hash": "",
+        "creator_hash": "",
+        "asset_hash": "",
+        "tree": "",
+        "seq": 0,
+        "leaf_id": 0
+      },
+      "grouping": [],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": null,
+      "mutable": false
+    },
+    {
+      "interface": "V1_NFT",
+      "id": "8YRBKxGDrmWUiqjxm1baC9ijFK8jkVNrdJJxaBmU2nth",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/nfts-devs/main/bgum/collection_test_metadata.json?r=0.18442513537581418",
+        "files": [],
+        "metadata": {
+          "description": "for test purpose",
+          "name": "BGUM Test Collection",
+          "symbol": ""
+        },
+        "links": {
+          "external_url": null
+        }
+      },
+      "authorities": [
+        {
+          "address": "28mvEKwZeYyW6fFWKW7zsjJbDnQn9cuxsX3zxUfkGP7H",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": true,
+        "data_hash": "WTUMfpA341uRMPnJLe4XfVsCfVm5fbFpTbJEviHTFLk",
+        "creator_hash": "HBrxG4xufN5EaPhKctKD1b1gCjrQfNeeL3DH7DEBD6oe",
+        "asset_hash": "3YUH8cLhYWDkpFhccHni1tRWxVBT51m88mQBnAjs8VnF",
+        "tree": "8dFcchB7N3pEZ3Q1wDd1umTGEYVaN1L4wKShTz7kLUZb",
+        "seq": 6,
+        "leaf_id": 5
+      },
+      "grouping": [
+        {
+          "group_key": "collection",
+          "group_value": "4bPsWZLGaMR6gzx9G8DxeKhEA1bStMUb7iMVuYdAgDkj"
+        }
+      ],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [
+        {
+          "address": "HXMfc1iaCxxeRt7wgwkRuZcbr4KQw79KRDJwjFU4RcWE",
+          "share": 100,
+          "verified": true
+        }
+      ],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 0
+      },
+      "mutable": true
+    },
+    {
+      "interface": "V1_NFT",
+      "id": "8jUMdzWjSfEQ5a8T6CB6CmaVxV5cuAPZtWpSHbZQFStP",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/mysol/main/assets/mysolbadges/metadatas/trainer2.json?r=1",
+        "files": [],
+        "metadata": {
+          "description": "has collected 3 mysolnft",
+          "name": "Trainer 2 Badges",
+          "symbol": "MSB"
+        },
+        "links": {
+          "external_url": null
+        }
+      },
+      "authorities": [
+        {
+          "address": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": false,
+        "data_hash": "",
+        "creator_hash": "",
+        "asset_hash": "",
+        "tree": "",
+        "seq": 0,
+        "leaf_id": 0
+      },
+      "grouping": [],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 255
+      },
+      "mutable": true
+    },
+    {
+      "interface": "V1_NFT",
+      "id": "8ucN6HxH2uijJwe7NTvL6eJCmw9d2enfuvo7kvpYDYbb",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/mysol/main/assets/mysolbadges/metadatas/trainer.json?r=1",
+        "files": [],
+        "metadata": {
+          "description": "has collected 5 mysolnft",
+          "name": "Trainer Badges",
+          "symbol": "MSB"
+        },
+        "links": {
+          "external_url": null
+        }
+      },
+      "authorities": [
+        {
+          "address": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": false,
+        "data_hash": "",
+        "creator_hash": "",
+        "asset_hash": "",
+        "tree": "",
+        "seq": 0,
+        "leaf_id": 0
+      },
+      "grouping": [],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 255
+      },
+      "mutable": true
+    },
+    {
+      "interface": "V1_NFT",
+      "id": "AnQAd9tVwD9drp8Y2TN8dhCVseVcAXTDsxMkDa5wKzkc",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/nfts-devs/main/bgum/collection_test_metadata.json?r=0.48665916513120644",
+        "files": [],
+        "metadata": {
+          "description": "for test purpose",
+          "name": "BGUM Test Collection",
+          "symbol": ""
+        },
+        "links": {
+          "external_url": null
+        }
+      },
+      "authorities": [
+        {
+          "address": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": false,
+        "data_hash": "",
+        "creator_hash": "",
+        "asset_hash": "",
+        "tree": "",
+        "seq": 0,
+        "leaf_id": 0
+      },
+      "grouping": [],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 254
+      },
+      "mutable": true
+    },
+    {
+      "interface": "V1_NFT",
+      "id": "AtWiwvWGMcWYZsYzWLjRKtkH9KG2icsfbt4asn9ejvhf",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/nftbox/main/assets/examples/images/nft_voucher.png",
+        "files": [],
+        "metadata": {
+          "name": "test bubblegum",
+          "symbol": "solcom"
+        }
+      },
+      "authorities": [
+        {
+          "address": "28mvEKwZeYyW6fFWKW7zsjJbDnQn9cuxsX3zxUfkGP7H",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": true,
+        "data_hash": "YGtaBeK7zTNJpZ1rMgq8mM5Z8zjEB5aP75pJkS3QpK6",
+        "creator_hash": "Ggd3CLUnj7dmRKr8hFzMnok1tX3EsVoe7nJDTj3m3PCB",
+        "asset_hash": "4EGXaNz9CdFCAhD6SE9GJ39RfMG9cAvsfMJmtgm9iNe6",
+        "tree": "8dFcchB7N3pEZ3Q1wDd1umTGEYVaN1L4wKShTz7kLUZb",
+        "seq": 1,
+        "leaf_id": 0
+      },
+      "grouping": [
+        {
+          "group_key": "collection",
+          "group_value": "4bPsWZLGaMR6gzx9G8DxeKhEA1bStMUb7iMVuYdAgDkj"
+        }
+      ],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [
+        {
+          "address": "28mvEKwZeYyW6fFWKW7zsjJbDnQn9cuxsX3zxUfkGP7H",
+          "share": 100,
+          "verified": false
+        }
+      ],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 0
+      },
+      "mutable": true
+    },
+    {
+      "interface": "V1_NFT",
+      "id": "B7iq8EFQDD4KoZ9DZ6H5tUmwPYUMivLd2cTTQjd4W7F2",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/nftbox/main/assets/examples/images/nft_voucher.png",
+        "files": [],
+        "metadata": {
+          "name": "test bubblegum",
+          "symbol": "solcom"
+        }
+      },
+      "authorities": [
+        {
+          "address": "7iidh9psQ3Dt1LfRdD5JLHUYaxJ3TBGMgGU4XMn8CosR",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": true,
+        "data_hash": "2xaVFMXezYHadSaaNswVUJJSCKSEQsLtnv5ES3qvtUGX",
+        "creator_hash": "FNoPe4EGiWhrP41xh9aTuWqgsCVQcGUe7D5kBW7TE3Mv",
+        "asset_hash": "4sVwVAShtbHC19wxmNSmCnGi4z8RV9z6PzPQhrT1Bmrb",
+        "tree": "2NJ75pia799TtU9mn5E16Wn8MkfY5kkG8zsQvSJBs6Ta",
+        "seq": 8,
+        "leaf_id": 7
+      },
+      "grouping": [
+        {
+          "group_key": "collection",
+          "group_value": "9XwGTDtEb6b8eYCgZby9eq1QxTtiTn8wyipsbqgF1feX"
+        }
+      ],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [
+        {
+          "address": "7iidh9psQ3Dt1LfRdD5JLHUYaxJ3TBGMgGU4XMn8CosR",
+          "share": 100,
+          "verified": false
+        }
+      ],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 0
+      },
+      "mutable": true
+    },
+    {
+      "interface": "V1_NFT",
+      "id": "Cdg3g2kRFM1p6TFNkMcFQKcvrZFyFb4aL8naPYUs88x2",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/nfts-devs/main/bgum/collection2_test_metadata.json?r=0.7244475846262273",
+        "files": [],
+        "metadata": {
+          "description": "for test purpose",
+          "name": "BGUM2 Test Collection",
+          "symbol": "BGTC2"
+        },
+        "links": {
+          "external_url": null
+        }
+      },
+      "authorities": [
+        {
+          "address": "Fy7dYez1RyC46inpw5PkCUP4yUirCqyLA98baKcUKej1",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": true,
+        "data_hash": "CrGHvw8iCmKewL7APEHr4SRdW4kLcLHMQhRVcWDUGR4B",
+        "creator_hash": "HBrxG4xufN5EaPhKctKD1b1gCjrQfNeeL3DH7DEBD6oe",
+        "asset_hash": "HMhfMkqgPbLaztnJPPfAvmkw9ZWi4jhvyY6xre2KDiED",
+        "tree": "3JEzNtXSjgMCtxtDSieN1DHg4V5epdmGHPN26DCWUNNg",
+        "seq": 1,
+        "leaf_id": 0
+      },
+      "grouping": [
+        {
+          "group_key": "collection",
+          "group_value": "2xQUjBUkZFLw4fwQbEH9dJNcTCEs2e5Ay7U1hYrdsWTx"
+        }
+      ],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [
+        {
+          "address": "HXMfc1iaCxxeRt7wgwkRuZcbr4KQw79KRDJwjFU4RcWE",
+          "share": 100,
+          "verified": true
+        }
+      ],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 0
+      },
+      "mutable": true
+    },
+    {
+      "interface": "V1_NFT",
+      "id": "CoysDGvbeAc8haZRUPRBcbCZLeG15GEUVS2rbyG8qff5",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/nfts-devs/main/bgum/collection_test_metadata.json?r=0.18442513537581418",
+        "files": [],
+        "metadata": {
+          "description": "for test purpose",
+          "name": "BGUM Test Collection",
+          "symbol": ""
+        },
+        "links": {
+          "external_url": null
+        }
+      },
+      "authorities": [
+        {
+          "address": "28mvEKwZeYyW6fFWKW7zsjJbDnQn9cuxsX3zxUfkGP7H",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": true,
+        "data_hash": "WTUMfpA341uRMPnJLe4XfVsCfVm5fbFpTbJEviHTFLk",
+        "creator_hash": "HBrxG4xufN5EaPhKctKD1b1gCjrQfNeeL3DH7DEBD6oe",
+        "asset_hash": "7CewoKP87pxDkDgazMshqFudTYpbLn8s6CBFS12MgHNe",
+        "tree": "8dFcchB7N3pEZ3Q1wDd1umTGEYVaN1L4wKShTz7kLUZb",
+        "seq": 3,
+        "leaf_id": 2
+      },
+      "grouping": [
+        {
+          "group_key": "collection",
+          "group_value": "4bPsWZLGaMR6gzx9G8DxeKhEA1bStMUb7iMVuYdAgDkj"
+        }
+      ],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [
+        {
+          "address": "HXMfc1iaCxxeRt7wgwkRuZcbr4KQw79KRDJwjFU4RcWE",
+          "share": 100,
+          "verified": true
+        }
+      ],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 0
+      },
+      "mutable": true
+    },
+    {
+      "interface": "V1_NFT",
+      "id": "D5MNVWNqmf6oayGmr7Fr5eGt6qi7Zksb1mQUwLQxkTrM",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/nftbox/main/assets/examples/images/nft_voucher.png",
+        "files": [],
+        "metadata": {
+          "name": "test bubblegum",
+          "symbol": "solcom"
+        }
+      },
+      "authorities": [
+        {
+          "address": "3dXL4MgbuuYJov9gbT3XvKsEMrxVTcmo2mXo6FvAYL8Z",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": true,
+        "data_hash": "HbtxrBTtTG6eSRgEsa5s5tt3DXyfAPoxkVVUcN35T6WK",
+        "creator_hash": "3e3xoKZQtE4LS7AuTcnvpsFAcQ286BL747gcCmvXVhkN",
+        "asset_hash": "EHcnridNNrSzBCyf3Zk6Lkj8i9JUVy54fzu5z63C6MDv",
+        "tree": "Ajg1ZBfeGDFohe4f3BuusS7EzsGiuU9LygRoxDh5Cgs2",
+        "seq": 1,
+        "leaf_id": 0
+      },
+      "grouping": [],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [
+        {
+          "address": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL",
+          "share": 100,
+          "verified": true
+        }
+      ],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 0
+      },
+      "mutable": true
+    },
+    {
+      "interface": "V1_NFT",
+      "id": "EaAcKjkn54uz2M3mRNDb2iA37BjLQrdvhnaJG3ow4xKD",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/nfts-devs/main/bgum/collection_test_metadata.json?r=0.18442513537581418",
+        "files": [],
+        "metadata": {
+          "description": "for test purpose",
+          "name": "BGUM Test Collection",
+          "symbol": ""
+        },
+        "links": {
+          "external_url": null
+        }
+      },
+      "authorities": [
+        {
+          "address": "28mvEKwZeYyW6fFWKW7zsjJbDnQn9cuxsX3zxUfkGP7H",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": true,
+        "data_hash": "WTUMfpA341uRMPnJLe4XfVsCfVm5fbFpTbJEviHTFLk",
+        "creator_hash": "HBrxG4xufN5EaPhKctKD1b1gCjrQfNeeL3DH7DEBD6oe",
+        "asset_hash": "G46TvFXShQDYXANYznQAMZB72Xp47siEzekMWkNRJL1R",
+        "tree": "8dFcchB7N3pEZ3Q1wDd1umTGEYVaN1L4wKShTz7kLUZb",
+        "seq": 5,
+        "leaf_id": 4
+      },
+      "grouping": [
+        {
+          "group_key": "collection",
+          "group_value": "4bPsWZLGaMR6gzx9G8DxeKhEA1bStMUb7iMVuYdAgDkj"
+        }
+      ],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [
+        {
+          "address": "HXMfc1iaCxxeRt7wgwkRuZcbr4KQw79KRDJwjFU4RcWE",
+          "share": 100,
+          "verified": true
+        }
+      ],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 0
+      },
+      "mutable": true
+    },
+    {
+      "interface": "V1_NFT",
+      "id": "HM8bMrH1LYZF7UjyiNjd2MMqHJr256cbm3yPg4wiuP6R",
+      "content": {
+        "$schema": "https://schema.metaplex.com/nft1.0.json",
+        "json_uri": "https://raw.githubusercontent.com/viandwi24/mysol/main/assets/mysolbadges/metadatas/trainer2.json?r=1",
+        "files": [],
+        "metadata": {
+          "description": "has collected 3 mysolnft",
+          "name": "Trainer 2 Badges",
+          "symbol": "MSB"
+        },
+        "links": {
+          "external_url": null
+        }
+      },
+      "authorities": [
+        {
+          "address": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL",
+          "scopes": [
+            "full"
+          ]
+        }
+      ],
+      "compression": {
+        "eligible": false,
+        "compressed": false,
+        "data_hash": "",
+        "creator_hash": "",
+        "asset_hash": "",
+        "tree": "",
+        "seq": 0,
+        "leaf_id": 0
+      },
+      "grouping": [],
+      "royalty": {
+        "royalty_model": "creators",
+        "target": null,
+        "percent": 0.05,
+        "basis_points": 500,
+        "primary_sale_happened": false,
+        "locked": false
+      },
+      "creators": [],
+      "ownership": {
+        "frozen": false,
+        "delegated": false,
+        "delegate": null,
+        "ownership_model": "single",
+        "owner": "FVYbp7ZHXN7YwDYM6uAfhkfgqGna5aFrYLRA9EMnWELL"
+      },
+      "supply": {
+        "print_max_supply": 0,
+        "print_current_supply": 0,
+        "edition_nonce": 255
+      },
+      "mutable": true
+    }
+  ]
+}
