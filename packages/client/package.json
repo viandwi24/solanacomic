@@ -7,7 +7,7 @@
     "dev": "BROWSER= vite",
     "build": "BROWSER= tsc && vite build",
     "preview": "vite preview",
-    "prepare": "cp ../contract/target/idl/solanacomic.json ./src/idl/solanacomic.json && cp ../contract/target/types/solanacomic.ts ./src/idl/solanacomic.ts"
+    "cp:idl": "cp ../contract/target/idl/solanacomic.json ./src/idl/solanacomic.json && cp ../contract/target/types/solanacomic.ts ./src/idl/solanacomic.ts"
   },
   "dependencies": {
     "@esbuild-plugins/node-globals-polyfill": "^0.2.3",
